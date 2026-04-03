@@ -41,7 +41,8 @@ class CSI_Dataset(Dataset):
         self.transform = transform
         self.data_list = glob.glob(root_dir+'/*/*.mat')
         self.folder = glob.glob(root_dir+'/*/')
-        self.category = {self.folder[i].split('/')[-2]:i for i in range(len(self.folder))}
+        folder_names = sorted([self.folder[i].split('/')[-2] for i in range(len(self.folder))])
+        self.category = {folder_names[i]:i for i in range(len(folder_names))}
 
     def __len__(self):
         return len(self.data_list)
@@ -74,7 +75,8 @@ class Widar_Dataset(Dataset):
         self.root_dir = root_dir
         self.data_list = glob.glob(root_dir+'/*/*.csv')
         self.folder = glob.glob(root_dir+'/*/')
-        self.category = {self.folder[i].split('/')[-2]:i for i in range(len(self.folder))}
+        folder_names = sorted([self.folder[i].split('/')[-2] for i in range(len(self.folder))])
+        self.category = {folder_names[i]:i for i in range(len(folder_names))}
         
     def __len__(self):
         return len(self.data_list)
@@ -97,4 +99,3 @@ class Widar_Dataset(Dataset):
         x = torch.FloatTensor(x)
 
         return x,y
-
