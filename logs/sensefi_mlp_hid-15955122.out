@@ -1,0 +1,60 @@
+Job ID: 15955122
+Job Name: sensefi_mlp_hid
+Node: plcyf-com-prod-com020.aptiv.com
+Start Time: Sat Apr  4 00:59:05 CEST 2026
+Working Dir: /net/8k3/e0fs01/users/xj62kv/260403_WiFi-CSI-Sensing-Benchmark-main
+Running: MLP + NTU-Fi-HumanID
+using dataset: NTU-Fi-HumanID
+using model: MLP
+Epoch:1, Accuracy:0.1852,Loss:40.061178376
+Epoch:2, Accuracy:0.3005,Loss:27.960639487
+Epoch:3, Accuracy:0.4396,Loss:14.665108772
+Epoch:4, Accuracy:0.6054,Loss:8.335238022
+Epoch:5, Accuracy:0.6985,Loss:4.291807940
+Epoch:6, Accuracy:0.8102,Loss:1.230635231
+Epoch:7, Accuracy:0.8194,Loss:1.075261191
+Epoch:8, Accuracy:0.9197,Loss:1.417805291
+Epoch:9, Accuracy:0.9385,Loss:0.489647502
+Epoch:10, Accuracy:0.9321,Loss:1.960156264
+Epoch:11, Accuracy:0.9656,Loss:0.567203034
+Epoch:12, Accuracy:0.9688,Loss:0.815250659
+Epoch:13, Accuracy:0.9625,Loss:0.354288134
+Epoch:14, Accuracy:0.9812,Loss:0.245962265
+Epoch:15, Accuracy:0.9875,Loss:0.066348311
+Epoch:16, Accuracy:1.0000,Loss:0.003837511
+Epoch:17, Accuracy:0.9906,Loss:0.026421646
+Epoch:18, Accuracy:1.0000,Loss:0.001492430
+Epoch:19, Accuracy:0.9938,Loss:0.046548153
+Epoch:20, Accuracy:1.0000,Loss:0.001249586
+Epoch:21, Accuracy:1.0000,Loss:0.001148584
+Epoch:22, Accuracy:1.0000,Loss:0.001010204
+Epoch:23, Accuracy:1.0000,Loss:0.000944556
+Epoch:24, Accuracy:1.0000,Loss:0.000959462
+Epoch:25, Accuracy:1.0000,Loss:0.000974678
+Epoch:26, Accuracy:1.0000,Loss:0.000898174
+Epoch:27, Accuracy:1.0000,Loss:0.000802859
+Epoch:28, Accuracy:1.0000,Loss:0.000742569
+Epoch:29, Accuracy:1.0000,Loss:0.000710397
+Epoch:30, Accuracy:1.0000,Loss:0.000682389
+Epoch:31, Accuracy:1.0000,Loss:0.000654719
+Epoch:32, Accuracy:1.0000,Loss:0.000629796
+Epoch:33, Accuracy:1.0000,Loss:0.000605565
+Epoch:34, Accuracy:1.0000,Loss:0.000585134
+Epoch:35, Accuracy:1.0000,Loss:0.000560564
+Epoch:36, Accuracy:1.0000,Loss:0.000540548
+Epoch:37, Accuracy:1.0000,Loss:0.000521560
+Epoch:38, Accuracy:1.0000,Loss:0.000502663
+Epoch:39, Accuracy:1.0000,Loss:0.000487332
+Epoch:40, Accuracy:1.0000,Loss:0.000469688
+Epoch:41, Accuracy:1.0000,Loss:0.000453406
+Epoch:42, Accuracy:1.0000,Loss:0.000438414
+Epoch:43, Accuracy:1.0000,Loss:0.000423660
+Epoch:44, Accuracy:1.0000,Loss:0.000408879
+Epoch:45, Accuracy:1.0000,Loss:0.000394616
+Epoch:46, Accuracy:1.0000,Loss:0.000382089
+Epoch:47, Accuracy:1.0000,Loss:0.000369072
+Epoch:48, Accuracy:1.0000,Loss:0.000356754
+Epoch:49, Accuracy:1.0000,Loss:0.000343881
+Epoch:50, Accuracy:1.0000,Loss:0.000332764
+validation accuracy:0.0590, loss:66.42943
+End Time: Sat Apr  4 01:07:11 CEST 2026
