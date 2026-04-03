@@ -1,0 +1,40 @@
+Job ID: 15918752
+Job Name: sensefi_lenet_ntu
+Node: plcyf-com-prod-com020.aptiv.com
+Start Time: Fri Apr  3 12:12:27 CEST 2026
+Working Dir: /net/8k3/e0fs01/users/xj62kv/260403_WiFi-CSI-Sensing-Benchmark-main
+Running: LeNet + NTU-Fi_HAR
+using dataset: NTU-Fi_HAR
+using model: LeNet
+Epoch:1, Accuracy:0.5952,Loss:0.974268036
+Epoch:2, Accuracy:0.8383,Loss:0.405024095
+Epoch:3, Accuracy:0.9356,Loss:0.187161806
+Epoch:4, Accuracy:0.9317,Loss:0.171857633
+Epoch:5, Accuracy:0.9552,Loss:0.117533774
+Epoch:6, Accuracy:0.9719,Loss:0.071691672
+Epoch:7, Accuracy:0.9910,Loss:0.028673060
+Epoch:8, Accuracy:0.9938,Loss:0.023048969
+Epoch:9, Accuracy:1.0000,Loss:0.003858974
+Epoch:10, Accuracy:0.9979,Loss:0.004747819
+Epoch:11, Accuracy:0.9990,Loss:0.004151555
+Epoch:12, Accuracy:1.0000,Loss:0.001563919
+Epoch:13, Accuracy:1.0000,Loss:0.000681669
+Epoch:14, Accuracy:1.0000,Loss:0.000912969
+Epoch:15, Accuracy:1.0000,Loss:0.000764544
+Epoch:16, Accuracy:1.0000,Loss:0.000765697
+Epoch:17, Accuracy:1.0000,Loss:0.000760637
+Epoch:18, Accuracy:1.0000,Loss:0.000690672
+Epoch:19, Accuracy:1.0000,Loss:0.000360772
+Epoch:20, Accuracy:1.0000,Loss:0.000203995
+Epoch:21, Accuracy:1.0000,Loss:0.000207479
+Epoch:22, Accuracy:1.0000,Loss:0.000152656
+Epoch:23, Accuracy:1.0000,Loss:0.000120996
+Epoch:24, Accuracy:1.0000,Loss:0.000101747
+Epoch:25, Accuracy:1.0000,Loss:0.000098391
+Epoch:26, Accuracy:1.0000,Loss:0.000095685
+Epoch:27, Accuracy:1.0000,Loss:0.000085262
+Epoch:28, Accuracy:1.0000,Loss:0.000079717
+Epoch:29, Accuracy:1.0000,Loss:0.000076441
+Epoch:30, Accuracy:1.0000,Loss:0.000074825
+validation accuracy:0.7250, loss:5.97413
+End Time: Fri Apr  3 12:18:35 CEST 2026

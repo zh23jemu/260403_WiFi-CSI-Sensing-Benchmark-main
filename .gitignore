@@ -1,2 +1,6 @@
 data.zip
 /data/
+.venv/
+/Data/
+__pycache__/
+
